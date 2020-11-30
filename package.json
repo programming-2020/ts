@@ -1,0 +1,23 @@
+{
+  "name": "ts-2020",
+  "version": "1.0.0",
+  "description": "TypeScript exercises",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programming-2020/ts-2020.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "Damjan Ivanovic <ti17m006@technikum-wien.at>",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/programming-2020/ts-2020/issues"
+  },
+  "homepage": "https://github.com/programming-2020/ts-2020#readme"
+}
