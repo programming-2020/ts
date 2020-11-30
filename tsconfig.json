@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "CommonJS",
+        "strict": true,
+        "watch": true,
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "sourceMap": true,
+        "rootDir": "./ts",
+        "outDir": "./src",
+    },
+    "exclude": [
+        "./node_modules"
+    ]
+}
