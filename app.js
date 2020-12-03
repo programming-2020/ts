@@ -1,4 +1,4 @@
 
 
-const a = require('./src/complete-guide/ts07-paremeters-type.js');
+const a = require('./src/complete-guide/ts18-annotations-in-use.js');
 a
