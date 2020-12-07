@@ -1,4 +1,4 @@
 
 
-const a = require('./src/complete-guide/ts028-arrays.js');
+const a = require('./src/complete-guide/ts029-arrays.js');
 a
