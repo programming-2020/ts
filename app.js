@@ -1,4 +1,4 @@
 
 
-const a = require('./src/complete-guide/ts18-annotations-in-use.js');
+const a = require('./src/complete-guide/ts028-arrays.js');
 a

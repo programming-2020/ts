@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js",
-    "tsc": "npx tsc"
+    "start-nodemon": "npx nodemon app.js",
+    "tsc": "npx tsc",
+    "tsc-watch": "npx tsc --watch"
   },
   "repository": {
     "type": "git",
@@ -23,6 +25,7 @@
   "homepage": "https://github.com/programming-2020/ts-2020#readme",
   "dependencies": {
     "axios": "^0.21.0",
+    "nodemon": "^2.0.6",
     "typescript": "^4.1.2"
   }
 }
