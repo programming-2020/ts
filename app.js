@@ -1,4 +1,4 @@
 
 
-const a = require('./src/complete-guide/ts07-paremeters-type.js');
-a
+const a = require('./src/complete-guide/ts035-interface.js');
+a;
